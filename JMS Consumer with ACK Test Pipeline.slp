@@ -122,7 +122,17 @@
                 "value": null
             },
             "imports": {
-                "value": []
+                "value": [
+                    {
+                        "as": {
+                            "value": "Config"
+                        },
+                        "path": {
+                            "expression": false,
+                            "value": "string.expr"
+                        }
+                    }
+                ]
             },
             "param_table": {
                 "value": []
